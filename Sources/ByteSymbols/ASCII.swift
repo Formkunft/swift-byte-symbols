@@ -109,9 +109,9 @@ public enum ASCII {
 	/// ASCII code point `0x2C`.
 	public static let comma = UInt8(ascii: ",")
 	/// ASCII code point `0x2D`.
-	public static let hyphenMinus = UInt8(ascii: "-")
+	public static let dash = UInt8(ascii: "-")
 	/// ASCII code point `0x2E`.
-	public static let dot = UInt8(ascii: ".")
+	public static let period = UInt8(ascii: ".")
 	/// ASCII code point `0x2F`.
 	public static let slash = UInt8(ascii: "/")
 	/// ASCII code point `0x30`.

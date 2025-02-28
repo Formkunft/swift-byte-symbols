@@ -49,8 +49,8 @@ An ASCII namespace with named constants for the 128 ASCII code points.
 - ``ASCII/asterisk``
 - ``ASCII/plus``
 - ``ASCII/comma``
-- ``ASCII/hyphenMinus``
-- ``ASCII/dot``
+- ``ASCII/dash``
+- ``ASCII/period``
 - ``ASCII/slash``
 - ``ASCII/digit0``
 - ``ASCII/digit1``
