@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-	name: "ByteSymbols",
+	name: "swift-byte-symbols",
 	products: [
 		.library(
 			name: "ByteSymbols",
