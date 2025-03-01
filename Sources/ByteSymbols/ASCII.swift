@@ -89,7 +89,7 @@ public enum ASCII {
 	/// ASCII code point `0x22`.
 	public static let quoteDouble = UInt8(ascii: "\"")
 	/// ASCII code point `0x23`.
-	public static let numberSign = UInt8(ascii: "#")
+	public static let hashmark = UInt8(ascii: "#")
 	/// ASCII code point `0x24`.
 	public static let dollarSign = UInt8(ascii: "$")
 	/// ASCII code point `0x25`.
