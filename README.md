@@ -2,6 +2,9 @@
 
 A simple Swift package that exposes an `ASCII` namespace with named constants for the 128 ASCII code points.
 
+- [Documentation](https://swiftpackageindex.com/Formkunft/swift-byte-symbols/documentation/bytesymbols)
+- [Swift Package Index](https://swiftpackageindex.com/Formkunft/swift-byte-symbols/)
+
 ## Using Swift Byte Symbols in your project
 
 Add `swift-byte-symbols` as a dependency to your package:
